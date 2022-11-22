@@ -1,6 +1,6 @@
 #include "pch.h"
 #include "GameFrameWork.h"
-
+// check
 GLvoid RenderScene();
 GLvoid Reshape(int, int);
 GLvoid Keyboard(unsigned char, int, int);
